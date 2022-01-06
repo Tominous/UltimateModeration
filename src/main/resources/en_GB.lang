@@ -9,11 +9,11 @@ general:
 command:
   clearchat:
     cleared: '&6%player% &7cleared the chat!'
-    immune: '&aYou were immune to the clear chat because of your perms.'
+    immune: '&aYou were immune to the clear chat because of your permissions.'
   togglechat:
     toggledOn: '&aChat was globally Unmuted...'
     toggledOff: '&cChat was globally Muted...'
-    bypass: '&aYou were immune to the chat toggle because of your perms.'
+    bypass: '&aYou were immune to the chat toggle because of your permissions.'
     muted: '&cChat is currently disabled, try again later.'
   vanish:
     toggledOn: '&7You are now vanished.'
